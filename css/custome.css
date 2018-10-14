@@ -1,0 +1,42 @@
+.row{
+    margin: 5px;
+    color: white;
+    background-color: gray;
+    text-align: center;
+}
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.black{
+    background-color: black;
+}
+.pink{
+    background-color: pink;
+}
+.yellow{
+    background-color: yellow;
+}
+.grey{
+    background-color:goldenrod;
+}
+.brown{
+    background-color: brown;
+}
+.light{
+    background-color: lightgreen;
+}
+.rose{
+    background-color: rosybrown;
+}
+.blue{
+    background-color: blue;
+}
+.vilet{
+    background-color: violet;
+}
+.sand{
+    background-color: bisque;
+}
