@@ -1,0 +1,18 @@
+body{
+    margin: 0%;
+    
+}
+.somu1{
+text-align: center;
+}
+.box{
+    background-color:rosybrown;
+    align-self: center;
+}
+.top{
+    width: 40%;
+    height: 50%;
+    text-align: center;
+    margin-left:25%;
+    margin-top:20%; 
+}
